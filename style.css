@@ -1,0 +1,127 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(180deg,#2b0a3d,#6a1bbd);
+  color: white;
+}
+
+.container {
+  max-width: 420px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* HEADER */
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.logo {
+  width: 150px;
+  margin-bottom: 10px;
+}
+
+header h1 {
+  margin: 5px 0;
+  font-size: 28px;
+  font-weight: bold;
+
+  background: linear-gradient(90deg, #00eaff, #7f5cff);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+
+  filter: drop-shadow(0 0 6px rgba(0,234,255,0.6));
+}
+
+
+header p {
+  opacity: 0.8;
+}
+
+/* SECTION TITLE */
+.section-title {
+  margin: 25px 0 10px;
+  padding: 10px;
+  border-radius: 12px;
+  background: linear-gradient(90deg,#00c6ff,#a855f7);
+  font-weight: bold;
+  box-shadow: 0 0 15px rgba(0,198,255,0.6);
+}
+
+/* LINK BOX */
+.link-box {
+  background: #222;
+  border-radius: 14px;
+  padding: 10px;
+  box-shadow: 0 0 20px rgba(168,85,247,0.4);
+}
+
+.link-item {
+  display: block;
+  background: #111;
+  margin: 10px 0;
+  padding: 14px;
+  border-radius: 10px;
+  color: white;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.link-item:hover {
+  transform: translateY(-3px);
+  background: #1f2933;
+  box-shadow: 0 0 10px #00c6ff;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 13px;
+  opacity: 0.85;
+}
+
+.social a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  margin: 5px 0;
+}
+
+/* TRUSTED NUMBER */
+.trusted-number .top {
+  border-bottom: 1px solid #333;
+  margin-bottom: 10px;
+}
+
+.trusted-number span {
+  font-weight: bold;
+  color: #00e604;
+}
+
+.trusted-number {
+  font-size: 15px;
+  text-align: left;
+  padding: 10px 0;
+  color: #ccc;
+}
+
+.trusted-number .title {
+  margin-bottom: 6px;
+  font-weight: bold;
+  color: hsl(0, 0%, 100%);
+}
+
+.trusted-number .number {
+  color: #00c6ff;
+  font-weight: bold;
+  margin: 4px 0;
+}

@@ -1,0 +1,60 @@
+{
+    "siteName": "TCLstore.id",
+    "sections": [
+        {
+            "title": "LINK JUALAN & SOSMED",
+            "links": [
+                {
+                    "text": "Instagram tclstore.id",
+                    "url": "https://link-jualan.com/",
+                    "icon": "instagram"
+                },
+                {
+                    "text": "TikTok tclstore.id",
+                    "url": "https://www.tiktok.com/@tcl.store.id?_r=1&_t=ZS-92raXukQjXJ",
+                    "icon": "tiktok"
+                },
+                {
+                    "text": "shopee tclstore.id",
+                    "url": "https://s.shopee.co.id/AKU83pDCly",
+                    "icon": "shopee"
+                },
+                {
+                    "text": "LYNK TCLstore",
+                    "url": "https://lynk.id/tclstore.id",
+                    "icon": "lynk"
+                },
+                {
+                    "text": "Git hub TCLstore.id",
+                    "url": "https://github.com/tclstore",
+                    "icon": "github"
+                }
+            ]
+        },
+        {
+            "title": "GRUP WHATSAPP JB",
+            "links": [
+                {
+                    "text": "Saluran TCLstore.id",
+                    "url": "https://whatsapp.com/channel/0029Vb7RnUoHgZWahXZtrR27",
+                    "icon": "whatsapp"
+                },
+                {
+                    "text": "Grup JB FISH IT",
+                    "url": "https://chat.whatsapp.com/BfyRNh3VKlkBxMcrGU9oOs",
+                    "icon": "whatsapp"
+                },
+                {
+                    "text": "Grup JB ALL GAME 1",
+                    "url": "https://chat.whatsapp.com/LwgcjBfWk3E3sirgkpXUGy",
+                    "icon": "whatsapp"
+                },
+                {
+                    "text": "Grup JB ALL GAME 2",
+                    "url": "https://chat.whatsapp.com/LpQAX4eM9sCDsGAONKPefc",
+                    "icon": "whatsapp"
+                }
+            ]
+        }
+    ]
+}
