@@ -9,4 +9,5 @@ Menyediakan layanan digital yang aman, murah, dan terpercaya.
 https://tclstoreid.pages.dev
 
 ## 🖼️ Preview
-![Tampilan Website](img/TCL_storeid.png)
+![Tampilan Website](jgn di buka/TAMPILAN.jpeg)
+
