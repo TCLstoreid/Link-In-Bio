@@ -1,5 +1,3 @@
-# Link-In-Bio
-
 # TCLSTORE.ID
 # 🔗 LINK IN BIO – ALL SOSMED
 
