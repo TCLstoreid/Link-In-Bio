@@ -56,7 +56,7 @@ Dikelola secara profesional dan bertanggung jawab.
 ---
 
 ## 🔗 LIVE WEBSITE
-https://tclstoreid.pages.dev
+https://link-in-bio-8xp.pages.dev/
 
 ---
 
